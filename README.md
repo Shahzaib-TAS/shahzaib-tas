@@ -42,6 +42,9 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 <b>Comit History:</b>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=shahzaib-tas&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+</br>
+</br>
+
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
