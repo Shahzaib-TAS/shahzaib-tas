@@ -42,8 +42,7 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 <b>Comit History:</b>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=shahzaib-tas&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-</br>
-</br>
+<br />
 
 ### Connect with me:
 
@@ -51,6 +50,8 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 [<img align="left" alt="shahzaib-kamran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shahzaib-Kamran | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 
+<br />
+<br />
 
 ### Languages and Tools:
 
